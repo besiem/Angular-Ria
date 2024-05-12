@@ -1,3 +1,6 @@
+// Prosta aplikacja wypożyczalni samochodowej
+// API - pobieranie danych o samochodach (rodzaj napędu, rok, marka, itp.)
+
 <div align="center">
  
 ## 🚨 Tutorial
